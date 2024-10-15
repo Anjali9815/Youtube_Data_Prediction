@@ -5,7 +5,7 @@ from pathlib import Path
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "youtube_subsc_predict"
+project_name = "YouTubePredict"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
